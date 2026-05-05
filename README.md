@@ -1,4 +1,4 @@
-# CRM-Analytics
+# E-Commerce-Analytics (Q-Com)
 Lead-to-revenue funnel analytics with conversion optimization
 
 Define business KPIs
